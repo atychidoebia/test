@@ -1,2 +1,2 @@
 # test
-![](https://komarev.com/ghpvc/?username=atychidoebia&color=pink)
+![](https://komarev.com/ghpvc/?username=atychidoebia&color=red)
